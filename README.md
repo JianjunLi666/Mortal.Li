@@ -1,0 +1,2 @@
+# Mortal.Li
+blog, docs
