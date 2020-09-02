@@ -1,2 +1,3 @@
-# Mortal.Li
-blog, docs
+# Headline
+
+> An awesome project.
